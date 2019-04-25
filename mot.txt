@@ -1,0 +1,3 @@
+LOAD	4
+STORE	4
+ADD	4

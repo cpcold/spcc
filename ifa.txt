@@ -1,0 +1,10 @@
+LC	opcode	operand
+0	chotu START
+0	USING *,15
+0	LOAD 1,FIVE
+4	ADD 1,4
+8	STORE 1,TEMP
+12	FOUR	DC	F,'4'
+16	FIVE	DC	F,'5'
+20	TEMP	DS	1,F
+24	END

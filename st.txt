@@ -1,0 +1,5 @@
+Symbol	Value	Size
+chotu	0	1
+FOUR	12	4
+FIVE	16	4
+TEMP	20	4

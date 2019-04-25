@@ -1,0 +1,12 @@
+Symbol			LS
+{
+Keyword orr Datatype:	int
+Delimeter:		;
+variable:			a
+Keyword orr Datatype:	int
+Delimeter:		;
+variable:			b
+Keyword orr Datatype:	int
+Delimeter:		;
+variable:			c
+Closing of method:	}

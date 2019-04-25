@@ -1,0 +1,16 @@
+REG	AVAILABILITY	CONTENT
+1	N		null
+2	N		null
+3	N		null
+4	N		null
+5	N		null
+6	N		null
+7	N		null
+8	N		null
+9	N		null
+10	N		null
+11	N		null
+12	N		null
+13	N		null
+14	N		null
+15	Y		0
